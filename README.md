@@ -1,12 +1,4 @@
-# My C++ Implementations of Various Data Structures
+# C++ Implementations of Various Data Structures
 
-## Structures Created
-Linked List
-
-Queue
-
-Stack
-
-Vector
-
-Many more to still be created..
+Various Data Structures have been implemented in this Repository.
+Looking forward to adding new data structures or improving existing ones.
